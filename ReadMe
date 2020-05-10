@@ -1,0 +1,7 @@
+Step1: cd to the folder that contain the files
+Step2: sudo make
+Step3: sudo insmod testDevice.ko
+Step4: gcc -o chess.o chess.c
+Step5: sudo ./chess.o
+
+for quiting enter command 'quit'
